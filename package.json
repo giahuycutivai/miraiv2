@@ -1,7 +1,7 @@
 {
     "name": "ThanhNam",
     "version": "1.2.14",
-    "description": "Mua File Bot Liên Hệ Facebook: fb.com/tnamtricklo205",
+    "description": "Mua File Ib: fb.com/tnamtricklo205",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
